@@ -1,5 +1,9 @@
 #Installation Hack
 
+Make sure you add the following to your .bashrc 
+
+* export PYTHONPATH=$PYTHONPATH:/home/ankur/workspace/code/paraview/ParaView-v4.3.1-source/build/lib/site-packages:/home/ankur/workspace/code/paraview/ParaView-v4.3.1-source/build/lib
+
 
 # Introduction
 
